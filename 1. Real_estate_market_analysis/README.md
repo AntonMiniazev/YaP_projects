@@ -2,6 +2,8 @@
 **Description:** At our disposal is the data sample of the Yandex.Realty service - an archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years. 
 **Main aims:** We need to learn how to determine the market value of real estate. Our job is to set the parameters. This will allow to build an automated system: it will track anomalies and fraudulent activity.
 
+dataset - **real_estate_data.csv**
+
 ### Table of Contents
 
 - **Introduction**
