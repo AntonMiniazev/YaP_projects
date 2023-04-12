@@ -1,6 +1,6 @@
 # Projects completed during the Yandex.Practicum "Data analyst" course 
 
-### All the sufficient details are contained in jupyter notebooks.
+### All sufficient details are contained in jupyter notebooks.
 
 | Project | Description | Skills trained  |
 | :---------------------- | :---------------------- | :---------------------- |
