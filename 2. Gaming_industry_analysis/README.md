@@ -1,8 +1,8 @@
 # Gaming industry analysis
 **Description:** At our disposal is the dataset of video game sales till 2016 and their attributes like genre, rating, platform etc.
 **Main aims:** 
-1. We need to define main characteristics which mostly influence the success of video games in sales.
-2. Prepare the foundation of the 2017 marketing campaign.
+1. Definintion of main characteristics which mostly influence the success of video games in sales.
+2. Preparation of the foundation for the 2017 marketing campaign.
 
 dataset - **games.csv**
 
