@@ -1,6 +1,6 @@
 # Projects completed during the Yandex.Practicum "Data analyst" course 
 
-![Снимок экрана 2023-04-19 110707](https://user-images.githubusercontent.com/130278462/233026616-5a34ae2c-35b9-4e75-a9a1-0344a81cb40c.png)
+![Intro](https://user-images.githubusercontent.com/130278462/233026715-b8ffb60a-8c73-45f0-9933-3c55961436f1.png)
 
 ### All sufficient details are contained in jupyter notebooks.
 
