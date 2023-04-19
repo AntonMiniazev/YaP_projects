@@ -1,6 +1,9 @@
 # Projects completed during the Yandex.Practicum "Data analyst" course 
 
-![Intro](https://user-images.githubusercontent.com/130278462/233026715-b8ffb60a-8c73-45f0-9933-3c55961436f1.png)
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/Other/Intro.png" />
+</p>
+
 
 ### All sufficient details are contained in jupyter notebooks.
 
