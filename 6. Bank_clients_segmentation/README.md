@@ -29,3 +29,5 @@
   - Hypothesis 2: income difference between churned and active customers
   - Hypothesis 3: The impact of property ownership on a customer's credit score
 - Results and recommendations
+
+[Presentation of results is available in PDF](https://github.com/AntonMiniazev/YaP_projects/blob/main/6.%20Bank_clients_segmentation/Bank_clients_segmentation.pdf)
