@@ -1,4 +1,4 @@
-# Recommendationsystem AB test
+# Recommendation system AB test
 **Description:** Analysis of the result of A/B test on the service that tried to implement an improved recommendation system. Expected results were to improve the conversion metrics within 14 days from the registration date.
 **Main aims:** 
 Evaluation of the results of A/B test according to the statement of work:
