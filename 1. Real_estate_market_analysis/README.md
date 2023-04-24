@@ -32,7 +32,11 @@ Based on the analyzed data, we can to form some conclusions regarding the reside
 * There is a negative correlation between remoteness and the cost of housing, but for an accurate assessment of the effect, it is necessary to remove the influence of a small number of advertisements for the sale of apartments in the center;
 
 <p align="center">
-  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/1.%20Real_estate_market_analysis/imgs/Heatmap.png" />
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/1.%20Real_estate_market_analysis/imgs/Corr_Heatmap.png" />
 </p>
 
 * On the service, with an increase in the number of ads, the average price of apartments for sale decreased with normalization by 2018.
+
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/1.%20Real_estate_market_analysis/imgs/Median_price.png" />
+</p>
