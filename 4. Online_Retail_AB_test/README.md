@@ -44,9 +44,18 @@ For the purpose of prioritizing hypotheses, two frameworks were used: ICE and RI
 
 ### A/B test results interpretation:
 * Significant differences between groups A and B in the average number of orders. Group B has a 19% higher rate on "clean" data;
+
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/4.%20Online_Retail_AB_test/imgs/Orders.png" />
+</p>
+
 * No significant differences between groups A and B in the average check. Group A had a 28.7% lower rate on "raw" data, but higher by 2.2% on "clean" data. The above conclusions obtained using the Mann-Whitney criterion were obtained both on "raw" and "clean" data. 
  
 The need to clean the data was also confirmed by the significant difference in the average check between the groups: there were abnormally high checks in group B that distorted the mean values.
+
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/4.%20Online_Retail_AB_test/imgs/Check.png" />
+</p>
 
 <b>Proposal based on the analysis above:</b> record the test results and designate group B as the winner. Despite the minor differences in the check, group B shows a significantly better number of orders.
 
