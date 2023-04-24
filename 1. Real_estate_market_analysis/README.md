@@ -1,5 +1,5 @@
 # Real estate market analysis
-**Description:** At our disposal is the data sample of the Yandex.Realty service - an archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years. 
+**Description:** At our disposal is the data sample of the Yandex.Realty service - an archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years.<br> 
 **Main aims:** We need to learn how to determine the market value of real estate. Our job is to set the parameters. This will allow to build an automated system: it will track anomalies and fraudulent activity.
 
 dataset - **real_estate_data.csv**
@@ -30,4 +30,9 @@ Based on the analyzed data, we can to form some conclusions regarding the reside
 * Every second apartment is sold on the service within 3 months;
 * The cost of an apartment is significantly influenced by its footage, both total and living;
 * There is a negative correlation between remoteness and the cost of housing, but for an accurate assessment of the effect, it is necessary to remove the influence of a small number of advertisements for the sale of apartments in the center;
+
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/1.%20Real_estate_market_analysis/imgs/Heatmap.png" />
+</p>
+
 * On the service, with an increase in the number of ads, the average price of apartments for sale decreased with normalization by 2018.
