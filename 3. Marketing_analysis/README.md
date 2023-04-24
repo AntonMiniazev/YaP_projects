@@ -1,5 +1,5 @@
 # Marketing analysis
-**Description:** This analysis is conducted by exploration of datasets from fiction service Procrastinate Pro+.   
+**Description:** This analysis is conducted by exploration of datasets from fiction service Procrastinate Pro+.<br>   
 **Main aims:** 
 1. Determination of unprofitable marketing channels.
 2. Formulation of recommendations to improve the company's economy based on the analysis of advertising expenses.
@@ -26,9 +26,22 @@
 - Results
 
 ### Conclusion:
+
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/3.%20Marketing_analysis/imgs/Marketing_costs.png" />
+</p>
+
 It is necessary to reconsider the advertising budget by discontinuing the use of <b>AdNonSense, FaceBoom, and TipTop</b>, or identifying the reasons for the low retention of users who came through these channels. <b>FaceBoom</b> has the highest conversion rate among the channels but the worst retention. It is necessary to consider options for improving user retention with the potential to turn the economics of this channel into positive profitability.
 
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/3.%20Marketing_analysis/imgs/Retention_and_acquisition.png" />
+</p>
+
 The reasons for negative economics can be both technical (users encounter some problems when transitioning from these channels) and in terms of the specific offers presented after the transition.
+
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/3.%20Marketing_analysis/imgs/Economics.png" />
+</p>
 
 Attention should be paid to <b>YRabbit</b> and <b>MediaTornado</b> channels. Both channels have positive user economics in terms of ROI and are generally better in terms of retention compared to other channels, but it is necessary to assess the possibilities for improving conversion rates in these channels.
 
