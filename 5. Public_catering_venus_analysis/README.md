@@ -4,6 +4,8 @@
 1. Market research of Moscow's public catering industry;
 2. Evaluation of the best location for opening a new public catering venue.
 
+[Presentation of results](https://github.com/AntonMiniazev/YaP_projects/blob/main/5.%20Public_catering_venus_analysis/Venues_Presentation.pdf)
+
 ### Table of Contents
 
 - Introduction
