@@ -32,9 +32,19 @@ dataset - **games.csv**
 ### Conclusion:
 Based on the analyzed data, we can use the following information in the preparation of the 2017 marketing campaign:
 * The gaming industry began to significantly develop by the mid-2000s, as evidenced by the increasing sales volume;
+
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/2.%20Gaming_industry_analysis/imgs/Releases.png" />
+</p>
+
 * On average, platforms have a lifespan of about 8 years, and among those currently relevant in the dataset are 2 generations of PlayStation and Xbox consoles, Wii, and Nintendo. Based on sales figures by year, it can be seen that a new generation emerged in 2013-2014;
 * Game review scores can influence sales volume, possibly due to reviews being published before the release of games. Trust in critics apparently leads to the purchase of games that are later poorly evaluated by players;
 * In the current generation, the most popular and profitable genres are Action, Shooter, and Sports;
+
+<p align="center">
+  <img src="https://github.com/AntonMiniazev/YaP_projects/blob/main/2.%20Gaming_industry_analysis/imgs/Sales_by_genre.png" />
+</p>
+
 * There is no significant difference in genre preferences between users in Europe and North America, while in Japan, the role-playing genre stands out. Games in the Action, Shooter, and Role-Playing genres are represented in the top 5 in all 3 regions;
 * In North America and Europe, the preferred platform is the PS4, with XBox having a noticeable share in North America. The 3DS platform dominates in Japan, followed by three Sony platforms;
 * Users in Europe and North America prefer relatively similar ESRB-rated games, purchasing the majority of games rated "Mature". In Japan, games rated "Teen" are more frequently purchased;
