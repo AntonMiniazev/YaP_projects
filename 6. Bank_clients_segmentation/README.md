@@ -4,6 +4,8 @@
 - Segment the bank's client and understand which user characteristics affect their loyalty to identify areas to strengthen churn management.
 - Analyze the bank's clients and segment users based on the number of consumed products.
 
+[Presentation of results is available in PDF](https://github.com/AntonMiniazev/YaP_projects/blob/main/6.%20Bank_clients_segmentation/Bank_clients_segmentation.pdf)
+
 ### Table of Contents
 
 - Introduction
@@ -30,4 +32,4 @@
   - Hypothesis 3: The impact of property ownership on a customer's credit score
 - Results and recommendations
 
-[Presentation of results is available in PDF](https://github.com/AntonMiniazev/YaP_projects/blob/main/6.%20Bank_clients_segmentation/Bank_clients_segmentation.pdf)
+
